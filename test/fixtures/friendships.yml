@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  friender_email: MyString
+  friendee_email: MyString
+
+two:
+  friender_email: MyString
+  friendee_email: MyString
